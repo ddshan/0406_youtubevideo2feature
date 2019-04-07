@@ -2,9 +2,9 @@
 # coding=UTF-8
 '''
 @Author: Dandan Shan
-@Descripation: download all youtube video using lock 
+@Descripation: get all youtube video features using lock 
 @Date: 2019-04-02 11:57:23
-@LastEditTime: 2019-04-05 00:23:57
+@LastEditTime: 2019-04-06 21:46:04
 
 TODO:
 0 merge all
